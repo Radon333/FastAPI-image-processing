@@ -1,1 +1,1 @@
-# RESTfulAPI template for image processing backend with ML models
+# REST API template for image processing backend with ML model
