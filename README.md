@@ -1,1 +1,1 @@
-# FastAPI-image-processing
+# RESTfulAPI template for image processing backend with ML models
